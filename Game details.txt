@@ -1,0 +1,21 @@
+I got the inheritance to work and the toString function to work but i only have the toString running as a trace statement
+
+becasue of my game being Space Invader it would seem impractiacal to have it show on the screeen. Also, i did not have enough
+
+time to get the mutilple bullet like i told you in class nor do i have the any aliens shoot back. The reason being is that i ran into 
+
+a lot of errors and i need help and Ally helped explained and fix some of it. So I fell like saying that if i did not get help
+
+from her i do not think the project would be done. Also i didnt get to have my intro and outro screen that i would have liked 
+
+to make.
+
+
+
+Game simple directions 
+
+
+need to be ready before you load for the reason that there is no load screen so be ready is all i have to say to anyone willing
+to play my game.
+
+The gun follows the mouse so pay attention to the mouse cursor and to fire is a click event.
